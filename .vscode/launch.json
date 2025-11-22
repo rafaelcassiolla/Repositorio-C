@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/rafae/OneDrive/Documentos/Curso/Repositorio-C",
-      "program": "c:/Users/rafae/OneDrive/Documentos/Curso/Repositorio-C/build/Debug/outDebug",
+      "cwd": "c:/Users/rafae/OneDrive/Documentos/Curso/Repositorio-C/testes.C",
+      "program": "c:/Users/rafae/OneDrive/Documentos/Curso/Repositorio-C/testes.C/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
